@@ -1,0 +1,71 @@
+
+
+body {
+
+    font-family: "roboto" ;
+}
+
+.bg-verde {
+
+    background-color: #28A745;
+}
+
+.card-img-top {
+
+
+    width: 100%;
+    height: 28em;
+
+
+}
+
+.card-title {
+
+    font-size: 20pt;
+    font-weight: 300;
+}
+
+.card-subtitle  {
+
+    font-size: 16pt;
+    font-weight: 300;
+
+}
+
+
+.card-text {
+
+    font-size: 13pt;
+    font-weight: 300;
+}
+
+
+.despues {
+
+    color: #28A745;
+    font-weight: 500;
+    font-size: 20pt;
+}
+
+.antes {
+
+    font-weight: 300;
+    font-size: 16px;
+
+}
+
+.formulario {
+
+background-color: #28A745;
+
+
+}
+
+footer span {
+
+    display:block;
+    
+
+
+}
+
